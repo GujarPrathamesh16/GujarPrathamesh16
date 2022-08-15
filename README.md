@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GujarPrathamesh16
+- 👋 Hi, I’m Prathamesh Gujar
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on ...
