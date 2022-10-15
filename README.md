@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prathamesh Gujar
-- 👀 I’m interested in Competitive Programming.
-- 🌱 I’m currently learning Front End Web Development.
-- 💞️ I’m looking to collaborate on Open Source Projects.
+- 👀 I’m interested in **Competitive Programming.**
+- 🌱 I’m currently learning **Front End Web Development.**
+- 💞️ I’m looking to collaborate on **Open Source Projects.**
 - 📫 How to reach me on my mail - gujarpa@rknec.edu
 
 <!---
